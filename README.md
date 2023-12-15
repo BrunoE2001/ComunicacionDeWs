@@ -31,7 +31,7 @@
 
 <div align="center">
 
-![POSTMAN](https://github.com/BrunoE2001/Web-Service-Mascotas/blob/main/postman.png)
+![POSTMAN](https://github.com/BrunoE2001/ComunicacionDeWs/blob/main/Consumo%20WS.png)
 
   </div>
 
